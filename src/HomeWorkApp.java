@@ -1,6 +1,6 @@
 public class HomeWorkApp {
     public static void main(String[] args) {
-        System.out.println(1);
+        System.out.println();
         printThreeWords();
         System.out.println();
         checkSumSign(1, 1);
